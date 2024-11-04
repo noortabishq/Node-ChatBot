@@ -3,7 +3,7 @@ This Node.js chatbot runs directly in your terminal, offering an engaging and ef
 ## Getting Started
 Clone the Repository :
 ```bash
-Cgit clone <repository-url>
+git clone <repository-url>
 cd <project-directory>
 ```
 Install Dependencies :
